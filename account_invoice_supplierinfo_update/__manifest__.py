@@ -11,7 +11,7 @@
                'the supplier price',
     'version': '10.0.1.0.1',
     'category': 'Accounting & Finance',
-    'website': 'http://akretion.com',
+    'website': 'https://github.com/OCA/account-invoicing',
     'author':
         'Akretion,'
         'GRAP,'
